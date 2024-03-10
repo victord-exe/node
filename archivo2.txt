@@ -1,0 +1,8 @@
+pasta
+arroz
+carne
+pizza
+python
+javaScript
+java
+php

@@ -1,0 +1,33 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "curso de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victord-exe/node.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "Victor D. Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victord-exe/node/issues"
+  },
+  "homepage": "https://github.com/victord-exe/node#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends" : "standard"
+  }
+}
